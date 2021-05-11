@@ -1,0 +1,14 @@
+{
+  "port": 1337,
+  "jwt": {
+    "name": "jwt",
+    "secret": "secret"
+  },
+  "mongodb": "mongodb+srv://test:test@obituclaster-4bpwi.mongodb.net/test?retryWrites=true&w=majority",
+  "salt": 10,
+  "mail": {
+    "service": "gmail",
+    "username": "obitu.noreply@gmail.com",
+    "password": "KillBill3"
+  }
+}
