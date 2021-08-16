@@ -1,0 +1,11 @@
+{
+	"dev": 
+	{
+		"driver": "pg",
+		"host": "host.docker.internal",
+		"database": "rgs",
+		"user": "postgres",
+		"password": "123456"
+	},
+	"sql-file" : true
+}
